@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/awesomebarnes-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/awesomebarnes-react/static/js/main.025c297e.chunk.js",
+    "main.js.map": "/awesomebarnes-react/static/js/main.025c297e.chunk.js.map",
+    "runtime-main.js": "/awesomebarnes-react/static/js/runtime-main.515c8429.js",
+    "runtime-main.js.map": "/awesomebarnes-react/static/js/runtime-main.515c8429.js.map",
+    "static/js/2.df162e31.chunk.js": "/awesomebarnes-react/static/js/2.df162e31.chunk.js",
+    "static/js/2.df162e31.chunk.js.map": "/awesomebarnes-react/static/js/2.df162e31.chunk.js.map",
+    "index.html": "/awesomebarnes-react/index.html",
+    "precache-manifest.252ca04559c38f2eac89a135dc46d5a7.js": "/awesomebarnes-react/precache-manifest.252ca04559c38f2eac89a135dc46d5a7.js",
+    "service-worker.js": "/awesomebarnes-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/awesomebarnes-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.df162e31.chunk.js.LICENSE.txt": "/awesomebarnes-react/static/js/2.df162e31.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/awesomebarnes-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.515c8429.js",
+    "static/js/2.df162e31.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.025c297e.chunk.js"
+  ]
+}
